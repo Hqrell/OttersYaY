@@ -1,9 +1,8 @@
-- 👋 Hi, I’m OttersYaY
-- 🦦 I’m interested in Otters ! 
-- 🥶 I’m currently learning Java, Python
-- 🤓 I'm NERD 
-- 🦦 Don't forget to love Otters!
-- 🧙Discord - Otters⚡🥶#7575 
+- 👋 Hey There!, I’m OttersYaY
+- 🦦 I’m Interested In Otters ! 
+- 🥶 I’m Currently Learning Java & Python
+- 🤓 I'm Super Nerd 
+- 🧙Discord - OttersYaY#7575 
 - My Discord Server - https://discord.gg/JYEMa9mkPk 🦦🥶 
 
 <!---
