@@ -1,9 +1,11 @@
-- 👋 Hey There!, I’m OttersYaY
-- 🦦 I’m Interested In Otters ! 
-- 🥶 I’m Currently Learning Java & Python
-- 🤓 I'm Super Nerd 
-- 🧙Discord - OttersYaY#7575 
-- My Discord Server - https://discord.gg/JYEMa9mkPk 🦦🥶 
+- 👋 Hey There!, I’m Harel (OttersYaY (Minecraft))
+- 🦦 I’m Interested In Otters!
+- 🌟 Discord Bot Developer
+- 🏫 I’m Currently Learning Java & Python
+- 🎻 Helper @ TopStrix (play.topstrix.net)
+- 🎻 Helper @ TopStrix *Discord* (https://discord.gg/topstrix)
+- 🎼 My Discord; OttersYaY#7575
+- 🔥 Otters Community - My Discord Server; https://discord.gg/dRMGcZtbju
 
 <!---
 OttersYaY/OttersYaY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
