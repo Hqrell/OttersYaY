@@ -3,7 +3,7 @@
 - 🌟 Discord Bot Developer
 - 🏫 I’m Currently Learning Java & Python
 - 🎻 Helper @ TopStrix (play.topstrix.net)
-- 🎻 Helper @ TopStrix *Discord* (https://discord.topstrix.net/)
+- 🎻 Helper @ TopStrix *Discord* (https://discord.topstrix)
 - 🎼 My Discord: ottersyay
 - 🔥 Otters Community - My Discord Server: https://discord.gg/dRMGcZtbju
 
