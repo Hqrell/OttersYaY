@@ -1,5 +1,4 @@
-- 👋 Hey there! I’m Harel (OttersYaY (Minecraft))
-- 🦦 Otters 💖
+- 👋 Hey there! I’m Harel (OtteredAway (Minecraft))
 - 🌟 Discord bot developer
 - 🏫 I’m currently learning Java & Python
 - 🎻 Helper @ TopStrix (play.topstrix.net)
